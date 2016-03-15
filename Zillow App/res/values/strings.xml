@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zillow</string>
+    <string name="title">Search Your Property Here</string>
+    <string name="address">Adrress*:</string>
+    <string name="action_settings">Settings</string>
+    <string name="addinput"></string>
+    <string name="city">City*:</string>
+    <string name="state">State*:</string>
+    <string name="search">Search</string>
+    <string name="zillow">Zillow Logo</string>
+    <string name="spin">spin</string>
+    <string name="facebook_app_id">?</string>
+
+    <string-array name="planets_array">
+        <item>Choose State</item>
+        <item>AL</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DC</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>IA</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>MA</item>
+        <item>MD</item>
+        <item>ME</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MO</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>NE</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NV</item>
+        <item>NY</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+    </string-array>
+
+    <string name="hintforresult"></string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="basicinfo">BasicInfo</string>
+    <string name="historicalzestimate">HistoricalZestimate</string>
+    <string name="result">Results from Zillow</string>
+   
+
+</resources>
